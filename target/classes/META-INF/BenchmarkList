@@ -1,0 +1,1 @@
+JMH S 28 com.microbenchmark.Benchmark S 51 com.microbenchmark.generated.Benchmark_init_jmhTest S 4 init S 10 Throughput E A 1 1 1 E I 1 5 E E E E E I 1 1 I 1 2 E E E E E E E E 
